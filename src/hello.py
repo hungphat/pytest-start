@@ -3,5 +3,7 @@ from src.service.util import hello
 print("hello world")
 
 
-hello("Nam")
-hello("Phat")
+s=hello("Nam")
+t=hello("Phat")
+
+print(t)
