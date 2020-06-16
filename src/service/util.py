@@ -1,4 +1,3 @@
 def hello(str):
-   print(f'Hello {str}')
 
-
+   return (f'Hello {str}!')
