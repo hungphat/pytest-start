@@ -10,5 +10,9 @@ python -m pip install pipenv
 -Check pipevn installed
 pipenv --version
 
+-Install required package
+pipenv sync
+
+
 #Open Hello
 python hello.py
